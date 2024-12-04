@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Paulo Lastra and I'm a Data Science and Machine Learning Developer from Miami, FL.</p>
+<p align="left">My name is Paulo Lastra and I'm a Data Science and Machine Learning Developer from Miami, FL. I'm skilled in Python, ML models, and building end-to-end data solutions. Passionate about leveraging ML for impactful business outcomes (seeking ML-focused roles)</p>
 
 ###
 
