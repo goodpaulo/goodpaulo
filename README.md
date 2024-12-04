@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Microsoft Azure<br>🎯 Goals: Change the world through the study of Data using AI<br>🎲 Fun fact: Currently becoming a leetcode master</p>
+<p align="left">📚 I'm currently learning Microsoft Azure<br>🎯 Goals: Change the world through the study of Data using AI<br>🎲 Fun fact: Currently becoming a Leetcode master</p>
 
 ###
 
